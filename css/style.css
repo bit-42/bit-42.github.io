@@ -1,0 +1,9 @@
+.game-img {
+  max-width: 300px;
+}
+
+.copyright {
+  font-size: 10px;
+  position: fixed;
+  bottom: 0px;
+}
